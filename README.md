@@ -47,7 +47,7 @@ I enjoy building practical digital solutions, learning new technologies, and tur
 
 A private blockchain system developed as my final thesis project to support the integrity and traceability of savings and loan transaction data for Koperasi Desa Merah Putih (KDMP).
 
-The system integrates a Laravel-based web application with a separate Node.js Blockchain Engine and implements transaction validation, BLAKE2b-512 hashing, Proof of Stake (PoS) consensus, Smart Contract validation, distributed ledger, and audit trail.
+The system integrates a Laravel-based web application with a separate Node.js Blockchain Engine and implements transaction validation, BLAKE2b hashing, Proof of Stake (PoS) consensus, Smart Contract validation, distributed ledger, and audit trail.
 
 **Tech Stack:**
 `Laravel` `PHP` `MySQL` `Node.js` `BLAKE2b` `Proof of Stake` `Smart Contract`
