@@ -56,7 +56,7 @@ The system integrates a Laravel-based web application with a separate Node.js Bl
 
 ### 📦 KDMP Logistics
 
-A web-based logistics management system developed during my internship at PT Jagat to support logistics management processes for Koperasi Desa Merah Putih (KDMP).
+A web-based logistics management system developed during my internship at PT Grage Media Technology to support logistics management processes for Koperasi Desa Merah Putih (KDMP).
 
 I contributed to the development and improvement of application features, data management, testing, debugging, and system refinement based on project requirements.
 
@@ -67,7 +67,7 @@ I contributed to the development and improvement of application features, data m
 
 ### 🔎 Project Finder
 
-A web-based application developed during my internship at PT Jagat.
+A web-based application developed during my internship at PT Grage Media Technology.
 
 I contributed to the development process, including feature development, data management, testing, debugging, and application improvements based on project requirements.
 
