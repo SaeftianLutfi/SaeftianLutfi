@@ -102,12 +102,12 @@ The project also serves as a learning platform to strengthen my JavaScript and R
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=SaeftianLutfi&show_icons=true&hide_border=true&theme=transparent" 
     height="170"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeftianLutfi&layout=compact&hide_border=true&theme=transparent" 
     height="170"
     alt="Top Languages"
   />
